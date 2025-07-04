@@ -1,0 +1,9 @@
+spring:
+  application.name: User-Service
+
+database:
+  name: user-service
+
+server:
+  port: 8082
+
