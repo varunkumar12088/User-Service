@@ -1,4 +1,4 @@
-package com.learning.user.entity;
+package com.academy.user.entity;
 
 
 import lombok.Data;
